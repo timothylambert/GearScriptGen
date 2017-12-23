@@ -1,5 +1,6 @@
 package GSGMain;
 
-public class Glasses {
+public class Glasses
+{
 
 }

@@ -1,5 +1,6 @@
 package GSGMain;
 
-public class Helmets {
+public class Helmets
+{
 
 }

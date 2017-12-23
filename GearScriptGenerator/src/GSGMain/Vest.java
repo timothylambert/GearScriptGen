@@ -1,5 +1,6 @@
 package GSGMain;
 
-public class Vest {
+public class Vest
+{
 
 }

@@ -1,5 +1,6 @@
 package GSGMain;
 
-public class Uniform {
+public class Uniform
+{
 
 }
